@@ -1,5 +1,2 @@
-#Addition of two numbers
-A = 120
-B = 20
-C = A+B
-print(c)
+def get_prime(n):
+    return n > 1 and all(n % i for i in range(2,n))
