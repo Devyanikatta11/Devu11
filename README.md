@@ -1,2 +1,2 @@
 # Devu11
-version 1.1
+prime program using recusive function
